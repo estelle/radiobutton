@@ -1,0 +1,11 @@
+@chartset "utf-8";
+
+$background: #ffffff;
+$color: #333333;
+$themecolor: slateblue;
+
+@import "layout";
+@import "slidedisplay";
+@import "slides";
+@import "content";
+@import "print";
